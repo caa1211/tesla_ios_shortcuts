@@ -11,9 +11,9 @@
 
 # 安裝與設置
 
-- 1: 從 App Store 安裝  [Auth for Tesla](https://apps.apple.com/us/app/auth-app-for-tesla/id1552058613)
+1. 從 App Store 安裝  [Auth for Tesla](https://apps.apple.com/us/app/auth-app-for-tesla/id1552058613)
 
-- 2: 安裝後，打開 Auth for Tesla，接著輪入特斯拉帳號密碼，登入後，離開即可
+2. 安裝後，打開 Auth for Tesla，接著輪入特斯拉帳號密碼，登入後，離開即可
 
 ```
 說明: 
@@ -27,7 +27,7 @@ https://www.reddit.com/r/shortcuts/comments/9rmgn3/tesla_commands_shortcut/
 
 # 匯入捷徑
 
-- 1: 點擊下面連結匯入第一個捷徑
+1. 點擊下面連結匯入第一個捷徑
 
 喚醒特斯拉
 https://www.icloud.com/shortcuts/79739c7adad44340a543c4c219aefece
@@ -36,24 +36,20 @@ https://www.icloud.com/shortcuts/79739c7adad44340a543c4c219aefece
 說明: 此為第一個需匯入的捷徑，其它捷徑會先判斷是否已喚醒，再接續執行
 ```
 
-- 2: 匯入其它指令
+2. 匯入其它指令
 
 打開車上的空調 https://www.icloud.com/shortcuts/8448a04385854a6a9350c17632c96c96
 
 打開後車箱 https://www.icloud.com/shortcuts/1dfcb1a132064b82adaa2c20de6ac1d0
 
-```
-說明: 再執行一次即會關閉，其實等同關閉後車箱捷徑，有改善的空間
-```
-
 關閉後車箱 https://www.icloud.com/shortcuts/68523f080fa04f55bd0dbfa39bd39a41
 
-```
-說明: 再執行一次即會開啟，其實等同開啟後車箱捷徑，有改善的空間
-```
+打開前車箱 https://www.icloud.com/shortcuts/18752dd7393a4ddb999221665f608aea
 
-打開前車箱
-https://www.icloud.com/shortcuts/18752dd7393a4ddb999221665f608aea
+
+```
+說明: 打開後車箱捷徑其實等同關閉後車箱捷徑，開啟的狀態再執行一次即關閉，反之亦然，這有改善的空間
+```
 
 
 # 其它

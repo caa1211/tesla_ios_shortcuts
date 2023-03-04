@@ -2,6 +2,8 @@
 
 用於設定使用 siri 控制 Tesla，原理是使用 ios 原生的 `捷徑` 功能，操作 [非官方的的API](https://www.teslaapi.io/)，設置時間約五分鐘以內。
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tlp4nb-dsyU/0.jpg)](https://www.youtube.com/watch?v=tlp4nb-dsyU)
+
 # 安裝與設置
 
 - 1: 從 App Store 安裝  [Auth for Tesla](https://apps.apple.com/us/app/auth-app-for-tesla/id1552058613)

@@ -22,7 +22,7 @@
 3. 本文分享的捷徑皆使用 Auth for Tesla 取得 Toekn。
 4. 因Token等於控制車輛的權限，若依然有安全性的疑慮，可使用下面reddit提供的捷徑，
 他的方法是在安裝捷徑時輸入帳號密碼，而在每次執行捷徑前都重新至Tesla登入拿Token，我預期速度較慢
-https://www.reddit.com/r/shortcuts/comments/9rmgn3/tesla_commands_shortcut/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+https://www.reddit.com/r/shortcuts/comments/9rmgn3/tesla_commands_shortcut/
 ```
 
 # 匯入捷徑

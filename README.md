@@ -43,7 +43,7 @@ https://www.icloud.com/shortcuts/79739c7adad44340a543c4c219aefece
 
 2. 匯入其它指令
 
-打開車上的空調 https://www.icloud.com/shortcuts/5c683d4f559d47899f928027594d9bcb
+打開車上空調 https://www.icloud.com/shortcuts/5c683d4f559d47899f928027594d9bcb
 
 打開後車箱 https://www.icloud.com/shortcuts/1dfcb1a132064b82adaa2c20de6ac1d0
 

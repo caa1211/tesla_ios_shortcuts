@@ -5,7 +5,6 @@
 ```
 說明: 
 1. API 雖非官方公開，是利用官方App使用逆向工程找出來的，有一定的安全性，但有因變動造成不支援的風險
-2. 其它非官方App應都是利用該API來控制車輛與取得車輛資訊
 ```
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tlp4nb-dsyU/0.jpg)](https://www.youtube.com/watch?v=tlp4nb-dsyU)

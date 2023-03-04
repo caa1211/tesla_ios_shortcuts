@@ -4,7 +4,8 @@
 
 ```
 說明: 
-1. API 雖非官方公開，是利用官方App使用逆向工程找出來的，有一定的安全性，但有因變動造成不支援的風險
+API 雖非官方公開，是利用官方App使用逆向工程找出來的，
+有一定的安全性，但有因變動造成不支援的風險
 ```
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tlp4nb-dsyU/0.jpg)](https://www.youtube.com/watch?v=tlp4nb-dsyU)
@@ -17,12 +18,16 @@
 
 ```
 說明: 
-1. 依照開發者的說明，帳碼密碼是直接輸入給Tesla網頁用於取得Token，並在Token過期前儲存至使用者的手機中，並沒有傳送給開發者。
+1. 依照開發者的說明，帳碼密碼是直接輸入給Tesla網頁用於取得Token，並在Token過期前儲存至使用者的手機中，
+   並沒有傳送給開發者。
+   
 2. 該App也已公開原始碼可供檢視(https://github.com/dburkland/tesla_ios_shortcuts)
+
 3. 本文分享的捷徑皆使用 Auth for Tesla 取得 Toekn。
+
 4. 因Token等於控制車輛的權限，若依然有安全性的疑慮，可使用下面reddit提供的捷徑，
-他的方法是在安裝捷徑時輸入帳號密碼，而在每次執行捷徑前都重新至Tesla登入拿Token，我預期速度較慢
-https://www.reddit.com/r/shortcuts/comments/9rmgn3/tesla_commands_shortcut/
+   他的方法是在安裝捷徑時輸入帳號密碼，而在每次執行捷徑前都重新至Tesla登入拿Token，我預期速度較慢
+   https://www.reddit.com/r/shortcuts/comments/9rmgn3/tesla_commands_shortcut/
 ```
 
 # 匯入捷徑

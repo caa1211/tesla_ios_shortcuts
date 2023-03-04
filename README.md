@@ -43,7 +43,7 @@ https://www.icloud.com/shortcuts/79739c7adad44340a543c4c219aefece
 關閉後車箱 https://www.icloud.com/shortcuts/68523f080fa04f55bd0dbfa39bd39a41
 
 ```
-說明: 再執行一次即會關閉，其實等同開啟後車箱捷徑，有改善的空間
+說明: 再執行一次即會開啟，其實等同開啟後車箱捷徑，有改善的空間
 ```
 
 打開前車箱

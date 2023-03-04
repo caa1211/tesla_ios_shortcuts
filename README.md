@@ -13,7 +13,7 @@
 
 - 1: 從 App Store 安裝  [Auth for Tesla](https://apps.apple.com/us/app/auth-app-for-tesla/id1552058613)
 
-- 2: 安裝後，打開 Auth for Tesla，接著輪入特斯拉帳號密碼
+- 2: 安裝後，打開 Auth for Tesla，接著輪入特斯拉帳號密碼，登入後，離開即可
 
 ```
 說明: 

@@ -6,12 +6,14 @@
 
 - 1: 從 App Store 安裝  [Auth for Tesla](https://apps.apple.com/us/app/auth-app-for-tesla/id1552058613)
 
-- 2: 安裝後，打開 Auth for Tesla，接著輪入帳號密碼
+- 2: 安裝後，打開 Auth for Tesla，接著輪入特斯拉帳號密碼
 
 ```
-說明: 依照開發者的說明，帳碼密碼是直接輸入給Tesla網頁用於取得Token，並在Token過期前儲存至使用者的手機中，並沒有傳送給開發者。
-該App也已公開原始碼可供檢視(https://github.com/dburkland/tesla_ios_shortcuts)，本文分享的捷徑皆使用 Auth for Tesla 取得 Toekn。
-因Token等於控制車輛的權限，若依然有安全性的疑慮，可使用下面的捷徑，它會於在每次執行指令時都重新至Tesla拿Token，但我預期速度較慢
+說明: 
+1. 依照開發者的說明，帳碼密碼是直接輸入給Tesla網頁用於取得Token，並在Token過期前儲存至使用者的手機中，並沒有傳送給開發者。
+2. 該App也已公開原始碼可供檢視(https://github.com/dburkland/tesla_ios_shortcuts)
+3. 本文分享的捷徑皆使用 Auth for Tesla 取得 Toekn。
+4. 因Token等於控制車輛的權限，若依然有安全性的疑慮，可使用下面的捷徑，他的方法是在安裝捷徑時輸入帳號密碼，而在每次執行捷徑前都重新至Tesla登入拿Token，我預期速度較慢
 https://www.reddit.com/r/shortcuts/comments/9rmgn3/tesla_commands_shortcut/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 ```
 
@@ -53,6 +55,8 @@ https://www.icloud.com/shortcuts/18752dd7393a4ddb999221665f608aea
 2. 預期會新增其它捷徑至此
 
 3. 將可連動 NFC，手機觸碰即可執行，相關教學後續新增
+
+4. 本教學僅供分享心得，請自負一切使用上的責任
 
 # 關於我
 

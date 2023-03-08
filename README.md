@@ -1,6 +1,6 @@
 # tesla_ios_shortcuts
 
-用於設定使用 siri 控制 Tesla，原理是使用 ios 原生的 `捷徑` 功能，操作 [非官方公開的API](https://www.teslaapi.io/)，設置時間約五分鐘以內。
+用於設定使用 siri 控制 Tesla，原理是使用 ios 原生的 `捷徑` 功能，操作 [非官方公開的API](https://tesla-api.timdorr.com)，設置時間約五分鐘以內。
 
 ```
 說明: 

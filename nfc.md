@@ -2,6 +2,9 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/--hEwuxQhEU/0.jpg)](https://www.youtube.com/watch?v=--hEwuxQhEU)
 
+### 0. 先進行捷徑的設置
+https://github.com/caa1211/tesla_ios_shortcuts#tesla_ios_shortcuts
+
 ### 1. 打開捷徑App選取自動化，選擇製作個人自動化操作
 <img src="https://user-images.githubusercontent.com/1962079/225515716-5a527eb0-ce41-4d6b-8cda-027ece3992c7.jpg" width="324">
 
